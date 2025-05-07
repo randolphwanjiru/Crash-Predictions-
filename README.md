@@ -15,6 +15,7 @@ Airbag deployment status
 Crash type (e.g., frontal impact)
 Vehicle weight and year
 Occupant demographics
+
 🧪 Methodology
 1. Data Preprocessing
 
